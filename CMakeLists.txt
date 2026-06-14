@@ -12,3 +12,7 @@ add_executable(Fahrenheit_app Fahrenheit-Celsius_table.c)
 add_executable(additional_Celsius_app additional_Celsius.c)
 
 add_executable(cels_to_fahr_app Cels_to_Fahr.c)
+add_executable(fahr_to_cels_for for_statement_fahr_to_celsius.c)
+add_executable(for_stat_fahr_cels
+        for_fahr_cels_different_order.c)
+add_executable(fahr_to_cels_symb_const fahr_to_cels_symb_const.c)
